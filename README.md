@@ -15,7 +15,7 @@ ___
 The City of Vancouver has embraced cloud technology by shifting its data processing operations to Amazon Web Services (AWS), aiming to enhance the efficiency and accuracy of data analysis for improved decision-making processes. A cornerstone of public engagement, the 3-1-1 inquiry system, enables residents to communicate with various city departments, reporting concerns, seeking information, and requesting municipal services.
 This initiative involves the creation of a Data Analytics Platform (DAP) utilizing AWS infrastructure. The DAP is designed to streamline the entire data lifecycle for 3-1-1 inquiries, encompassing data collection, storage, processing, and analysis. By leveraging this advanced platform, the city aims to optimize resource allocation and elevate the quality of service delivery to its citizens.
 
-# [AWS-1 Project 1]()
+# [AWS-1 Project 1](https://arungithub97.github.io/AWS-Project-1/)
 # Project Description: Implementation and Analysis of 3-1-1 Inquiry Volumes Using AWS
  Part 1
 * This project goal was to streamline data sourcing, storage, cleaning, transformation, and analysis, all while maintaining high standards of data security and governance. The platform was built with a focus on handling large datasets, securing sensitive information, and providing real-time insights through data visualization.
