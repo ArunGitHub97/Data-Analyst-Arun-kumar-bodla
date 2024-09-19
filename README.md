@@ -3,7 +3,7 @@
 Arun Kumar Bodla [2232730], <br>
 University Canada West, <br>
 BUSI 653, <br>
-Section , <br>
+Section 09, <br>
 Instructor: Prof. Mahmood Mortazavi Dehkordi, <br>
 Due Date: 18th September 2024 <br>
 </p>
