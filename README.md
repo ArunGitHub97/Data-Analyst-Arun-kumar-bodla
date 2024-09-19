@@ -38,12 +38,14 @@ This initiative involves the creation of a Data Analytics Platform (DAP) utilizi
 12. Data Publishing
 
 ___
-# [AWS-Project 2]()
-# Project Description: Data Protection, Governance, and Monitoring
-* This project involves setting up a comprehensive data analytics platform to manage and monitor data associated with 3-1-1 inquiries. 
+# [AWS-Project 2](https://arungithub97.github.io/AWS-Project-2/)
+
 ## Project Title: AWS Data Analytic Platform for the City of Vancouver - Part 2
+## Project Description:
+- The City of Vancouver requires a robust and secure data platform to manage and monitor data associated with 3-1-1 inquiries
 * This project aims to design and implement a Data Analytics Platform (DAP) using Amazon Web Services (AWS) to Data Protection, Governance, and Monitoring
 ## Project Objective:
+- The City of Vancouver is implementing a Data Analytics Platform on AWS to enhance its 3-1-1 inquiry system. This initiative aims to improve data processing efficiency, enable real-time analytics, and optimize resource allocation for better service delivery. By leveraging cloud technology, the city seeks to transform its approach to managing citizen inquiries and ultimately enhance the overall quality of municipal services.
 * Designing & Implementing DAP.
 ## Methodology:
 * The process of providing Data Protection, Governance, and Monitoring for DAP designed as follows.
